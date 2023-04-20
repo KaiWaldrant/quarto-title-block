@@ -1,0 +1,6 @@
+---
+title: '![Open Problems in Single-Cell Analysis](images/heros/home_hero_text.png){width="80%"}'
+title-block-banner: images/heros/home_hero.jpg
+page-layout: full
+toc: false
+---
